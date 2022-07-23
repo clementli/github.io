@@ -1,6 +1,6 @@
 # Hello, my name is *Clement Li*
 
-![](https://photos.google.com/share/AF1QipMv_nLG22fUvN1DdesjjEsnvS-6Qu9Rko4O8uLdpoUs6OOCfro3KkVmWrctdiYUcw?key=OEJ1dmowMUlHTTB4ZEhObDg0LWJtMi1JVUgtdGRn)
+![](https://photos.google.com/album/AF1QipMac5d93bVe6J35BYn9gZcgqqS_zefH8ZaJv1dd)
 
 ## Mission
 Develop cross-platform mobile apps using [Kivy](https://kivy.org/) and [KivyMD](https://kivymd.readthedocs.io/en/latest/), with [Python](https://www.python.org/)
