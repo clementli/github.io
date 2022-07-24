@@ -15,5 +15,5 @@ Tic Tac Toe | 1.0 | 2022
 
 ---
 ## Users' Feedback
-All feedbacks can be sent to: <dummy@icloud.com>
+All feedbacks can be sent to: <clementli339@icloud.com>
 
