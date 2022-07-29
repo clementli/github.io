@@ -12,9 +12,9 @@ All apps developed by me will not collect any user's data.  They are completely 
 
 ## List of Apps Published
 ---
-App         | Ver | Year | Link
----         |---  |--- | ---
-Tic Tac Toe | 1.0 | 2022 | https://apps.apple.com/app/tic-tac-toe-a-kivy-game/id1635039650
+App         | Ver | Year 
+---         |---  |--- 
+[Tic Tac Toe](https://apps.apple.com/app/tic-tac-toe-a-kivy-game/id1635039650) | 1.0 | 2022 
 
 ---
 ## Users' Feedback
